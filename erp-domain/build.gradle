@@ -1,0 +1,5 @@
+description = 'erp-domain'
+
+dependencies {
+    implementation project(':erp-common')
+}
