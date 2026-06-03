@@ -1,5 +1,3 @@
-description = 'erp-application'
-
 dependencies {
     implementation project(':erp-common')
     implementation project(':erp-domain')
